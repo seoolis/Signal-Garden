@@ -1,4 +1,4 @@
-<img width="865" height="815" alt="image" src="https://github.com/user-attachments/assets/0cead9ac-eac5-4757-a78f-772ef5a89c34" />
+![Uploading ChatGPT Image 1 авг. 2026 г., 02_08_41.png…]()
 
 # Signal Garden
 
