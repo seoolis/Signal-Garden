@@ -1,5 +1,3 @@
-![Uploading ChatGPT Image 1 авг. 2026 г., 02_08_41.png…]()
-
 # Signal Garden
 
 Signal Garden - это local-first приложение для хранения, развития и приоритизации идей.
