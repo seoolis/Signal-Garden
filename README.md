@@ -1,3 +1,5 @@
+<img width="865" height="815" alt="image" src="https://github.com/user-attachments/assets/0cead9ac-eac5-4757-a78f-772ef5a89c34" />
+
 # Signal Garden
 
 Signal Garden - это local-first приложение для хранения, развития и приоритизации идей.
